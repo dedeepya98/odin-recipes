@@ -15,17 +15,20 @@ h1{
 }
 
 .header {
-    display: block;
+    display: flex;
     background-color: blanchedalmond;
 }
  
 .header img{
     position: relative;
+    padding-right: 10px;
 }
 
 .header h1{
-    position: relative;
-    padding: 100x;
+    text-align: center;
+    padding-block: 10px;
+    padding-top: 50px;
+    padding-left: 250px;
 }
 
 
